@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Created by abdoh.
+-->
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/sorting_value"
+        android:orderInCategory="1"
+        android:id="@+id/action_sorting_criteria"
+        app:showAsAction="always" />
+</menu>

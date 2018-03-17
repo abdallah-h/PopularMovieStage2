@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Popular Movies Stage 2</string>
+    <string name="error_loading_message">Error loading Movies</string>
+
+    <string name="poster_size">w500</string>
+    <string name="Plot">Plot</string>
+
+
+    <string name="sorting_value">Sorting</string>
+    <string name="pref_sorting_popular">popular</string>
+    <string name="sorting_popular">Popular Movies</string>
+
+
+    <string name="pref_sorting_rating">top_rated</string>
+    <string name="sorting_rating">Top Rated Movies</string>
+
+    <string name="pref_bookmarked">bookmarked</string>
+    <string name="bookmarked_movies">Favorite Movies</string>
+
+
+    <string name="movie_preferences">movie_preferences</string>
+
+    <string name="release_date">Release date: \n%s</string>
+    <string name="vote_average">TMDb Rating: \n%.1f/10</string>
+    <string name="trailers_label">Trailers</string>
+    <string name="reviews_button">Users reviews</string>
+    <string name="bookmark_added">The Movie Marked as Favorite</string>
+    <string name="bookmark_insert_error">Error while marking the movie as Favorite</string>
+    <string name="bookmark_deleted">The Movie Unmarked from Favorite bookmarks</string>
+    <string name="bookmark_delete_error">Error while deleting the movie from Favorite bookmarks</string>
+    <string name="pref_sorting_key">sorting</string>
+    <string name="reviews_title">Reviews</string>
+    <string name="reviews_intent_extra">reviews</string>
+    <string name="no_reviews_message">There are no reviews for this Movie</string>
+    <string name="review_author">Author: %s</string>
+    <string name="no_bookmarks">No movies are marked as Favorite.</string>
+    <string name="AUTHOR">author</string>
+    <string name="MARKED_AS_FAVORITE">MARKED AS FAVORITE</string>
+    <string name="MARK_AS_FAVORITE">MARK AS FAVORITE</string>
+    <string name="MARKED_COLOR">#ffffB300</string>
+    <string name="NON_MARKED_COLOR">#ffffff</string>
+
+</resources>
